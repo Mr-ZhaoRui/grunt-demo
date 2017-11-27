@@ -1,0 +1,14 @@
+{
+  "name": "grunt-bower",
+  "description": "my-bower",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
